@@ -30,7 +30,7 @@ http://45.70.168.162:12339/play/a007/index.m3u8
 http://45.70.168.162:12339/play/a004/index.m3u8
 #EXTINF:-1 group-title="Tv Internacional",Cinemax
 http://45.70.168.162:12339/play/a00x/index.m3u8
-#EXTINF:-1 group-title="-",City TV
+#EXTINF:-1 group-title="Tv Internacional",City TV
 http://45.70.168.162:12339/play/a00u/index.m3u8
 #EXTINF:-1 group-title="Tv Internacional",Claro Sports
 http://45.70.168.162:12339/play/a029/index.m3u8
