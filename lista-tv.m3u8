@@ -1,119 +1,192 @@
 
 #EXTM3U
-#EXTINF:-1 group-title="Tv Internacional",AE Mundo
-http://45.70.168.162:12339/play/a00h/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",AXN 
-http://45.70.168.162:12339/play/a00z/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Animal Planet
-http://45.70.168.162:12339/play/a00b/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Baby First
-http://45.70.168.162:12339/play/a01i/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Canal Caracol
-http://45.70.168.162:12339/play/a00o/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Canal Institucional
-http://45.70.168.162:12339/play/a00q/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Canal Las Estrellas colombia
-http://45.70.168.162:12339/play/a01j/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Canal RCN
-http://45.70.168.162:12339/play/a00p/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Canal Uno
-http://45.70.168.162:12339/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Canal del Congreso
-http://45.70.168.162:12339/play/a00r/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Capital
-http://45.70.168.162:12339/play/a00v/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Caracol
-http://45.70.168.162:12339/play/a02e/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Cartoon Network
-http://45.70.168.162:12339/play/a007/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Cinecanal
-http://45.70.168.162:12339/play/a004/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Cinemax
-http://45.70.168.162:12339/play/a00x/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",City TV
-http://45.70.168.162:12339/play/a00u/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Claro Sports
-http://45.70.168.162:12339/play/a029/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Discovery Channel
-http://45.70.168.162:12339/play/a00a/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Discovery Turbo
-http://45.70.168.162:12339/play/a016/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Disney Channel
-http://45.70.168.162:12339/play/a009/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",E Entertainment
-http://45.70.168.162:12339/play/a00d/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",ESPN
-http://45.70.168.162:12339/play/a00g/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",ESPN 2
-http://45.70.168.162:12339/play/a00f/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",ESPN 3
-http://45.70.168.162:12339/play/a017/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",ESPN 5
-http://45.70.168.162:12339/play/a00m/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",ESPN 5
-http://45.70.168.162:12339/play/a00e/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",ESPN 6
-http://45.70.168.162:12339/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",ESPN 7
-http://45.70.168.162:12339/play/a00i/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",El Gourmet
-http://45.70.168.162:12339/play/a024/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",FX
-http://45.70.168.162:12339/play/a011/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",HBO
-http://45.70.168.162:12339/play/a00w/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",History Channel
-http://45.70.168.162:12339/play/a003/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Home and Health
-http://45.70.168.162:12339/play/a01q/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",ID
-http://45.70.168.162:12339/play/a00k/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Kanal D Drama
-http://45.70.168.162:12339/play/a02b/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Love Nature
-http://45.70.168.162:12339/play/a02c/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",MTV
-http://45.70.168.162:12339/play/a01p/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",National Geographic
-http://45.70.168.162:12339/play/a002/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Nick Jr
-http://45.70.168.162:12339/play/a015/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Nickelodeon
-http://45.70.168.162:12339/play/a001/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Plim Plim TV
-http://45.70.168.162:12339/play/a02a/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",STAR Channel
-http://45.70.168.162:12339/play/a006/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Senal Colombia
-http://45.70.168.162:12339/play/a00s/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",SonyY
-http://45.70.168.162:12339/play/a028/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Space
-http://45.70.168.162:12339/play/a010/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",TNT Novelas
-http://45.70.168.162:12339/play/a00l/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",TNTt
-http://45.70.168.162:12339/play/a01z/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",TRO
-http://45.70.168.162:12339/play/a01n/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Teleantioquia
-http://45.70.168.162:12339/play/a012/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Telecaribe
-http://45.70.168.162:12339/play/a018/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Telemundo
-http://45.70.168.162:12339/play/a01k/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Telepacifico
-http://45.70.168.162:12339/play/a014/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Trece
-http://45.70.168.162:12339/play/a019/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Universal
-http://45.70.168.162:12339/play/a005/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Warner
-http://45.70.168.162:12339/play/a00c/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Win
-http://45.70.168.162:12339/play/a013/index.m3u8
-#EXTINF:-1 group-title="Tv Internacional",Zoom
-http://45.70.168.162:12339/play/a01m/index.m3u8
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",A&E HD
+http://200.48.65.77:8000/play/a01s
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",ADN 40 Tv Internacional RT ESPANOL
+http://200.48.65.77:8000/play/a02a
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",AMC
+http://200.48.65.77:8000/play/a01u
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",AMC SERIES
+http://200.48.65.77:8000/play/a02m
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",AMERICA TV
+http://200.48.65.77:8000/play/a00e
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",ANIMAL PLANET
+http://200.48.65.77:8000/play/a00p
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",ATV +
+http://200.48.65.77:8000/play/a01b
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",ATV HD
+http://200.48.65.77:8000/play/a01d
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",ATV SUR
+http://200.48.65.77:8000/play/a01c
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",AXN
+http://200.48.65.77:8000/play/a01t
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",AZCLIC
+http://200.48.65.77:8000/play/a01o
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",AZCORAZON
+http://200.48.65.77:8000/play/a01p
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",AZMUNDO
+http://200.48.65.77:8000/play/a01r
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",BABY TV
+http://200.48.65.77:8000/play/a022
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",BETHEL
+http://200.48.65.77:8000/play/a01h
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",BITME
+http://200.48.65.77:8000/play/a020
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",CANAL DE LAS ESTRELLAS
+http://200.48.65.77:8000/play/a01l
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",CARTOON NETWORK
+http://200.48.65.77:8000/play/a00d
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",CARTOONITO
+http://200.48.65.77:8000/play/a021
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",CGTN
+http://200.48.65.77:8000/play/a029
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",CINECANAL
+http://200.48.65.77:8000/play/a01x
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",CINEMAX
+http://200.48.65.77:8000/play/a005
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",CLAN
+http://200.48.65.77:8000/play/a00a
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",COMEDY CENTER
+http://200.48.65.77:8000/play/a01f
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",DE PELICULA
+http://200.48.65.77:8000/play/a02j
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",DHE
+http://200.48.65.77:8000/play/a00z
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",DISCOVERY CHANNEL
+http://200.48.65.77:8000/play/a00j
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",DISCOVERY KIDS
+http://200.48.65.77:8000/play/a00o
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",DISCOVERY TURBO
+http://200.48.65.77:8000/play/a00n
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",DISNEY CHANNEL
+http://200.48.65.77:8000/play/a00w
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",DISNEY JR
+http://200.48.65.77:8000/play/a00c
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",DISTRITO COMEDIA
+http://200.48.65.77:8000/play/a011
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",DW
+http://200.48.65.77:8000/play/a02c
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",E!
+http://200.48.65.77:8000/play/a003
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",ENLACE
+http://200.48.65.77:8000/play/a01g
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",ESPN 1
+http://200.48.65.77:8000/play/a026
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",ESPN 2
+http://200.48.65.77:8000/play/a012
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",ESPN 3
+http://200.48.65.77:8000/play/a00f
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",ESPN 4
+http://200.48.65.77:8000/play/a00b
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",ESPN 5
+http://200.48.65.77:8000/play/a025
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",ESPN 6
+http://200.48.65.77:8000/play/a024
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",ESPN 7
+http://200.48.65.77:8000/play/a023
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",EUROPA EUROPA
+http://200.48.65.77:8000/play/a02i
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",EWTN
+http://200.48.65.77:8000/play/a017
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",EXITOSA
+http://200.48.65.77:8000/play/a02s
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",FOOD NETWORK
+http://200.48.65.77:8000/play/a00m
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",FUNBOX
+http://200.48.65.77:8000/play/a01a
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",FX
+http://200.48.65.77:8000/play/a01w
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",GLOBAL
+http://200.48.65.77:8000/play/a02t
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",GOLDEN
+http://200.48.65.77:8000/play/a02l
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",GOLDEN EDGE
+http://200.48.65.77:8000/play/a02k
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",GOURMENT
+http://200.48.65.77:8000/play/a02g
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",H&H
+http://200.48.65.77:8000/play/a00l
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",HBO
+http://200.48.65.77:8000/play/a004
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",HISTORY
+http://200.48.65.77:8000/play/a02d
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",HISTOY 2
+http://200.48.65.77:8000/play/a013
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",ID
+http://200.48.65.77:8000/play/a00i
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",IPE
+http://200.48.65.77:8000/play/a00t
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",KANALD DRAMA
+http://200.48.65.77:8000/play/a001
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",LA TELE
+http://200.48.65.77:8000/play/a01m
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",LATINA
+http://200.48.65.77:8000/play/a01j
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",LIFE TIME
+http://200.48.65.77:8000/play/a02h
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",LIGA 1 MAX
+http://200.48.65.77:8000/play/a016
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",LOVE NATURE
+http://200.48.65.77:8000/play/a02f
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",MARIA VISION
+http://200.48.65.77:8000/play/a01i
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",NAT GEO
+http://200.48.65.77:8000/play/a02e
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",NICK
+http://200.48.65.77:8000/play/a01e
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",ODTV (bolivision)
+http://200.48.65.77:8000/play/a027
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",PANAMERICANA
+http://200.48.65.77:8000/play/a01k
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",PASIONES
+http://200.48.65.77:8000/play/a00q
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",RPP
+http://200.48.65.77:8000/play/a01n
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",RUMBA TV
+http://200.48.65.77:8000/play/a01z
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",SONY CHANNEL
+http://200.48.65.77:8000/play/a02r
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",SONY MOVIES
+http://200.48.65.77:8000/play/a02q
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",STAR CHANNEL
+http://200.48.65.77:8000/play/a01v
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",STAR TVE
+http://200.48.65.77:8000/play/a00r
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",STUDIO UNIVERSAL
+http://200.48.65.77:8000/play/a02o
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",TELEHIT
+http://200.48.65.77:8000/play/a010
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",TELEHIT MUSIC
+http://200.48.65.77:8000/play/a018
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",TELEMUNDO
+http://200.48.65.77:8000/play/a014
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",TELENOVELAS
+http://200.48.65.77:8000/play/a00y
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",TELESUR INTERNACIONAL
+http://200.48.65.77:8000/play/a02b
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",TLC
+http://200.48.65.77:8000/play/a00k
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",TV PERU
+http://200.48.65.77:8000/play/a00g
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",TV PERU NOTICIAS
+http://200.48.65.77:8000/play/a00s
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",TVN
+http://200.48.65.77:8000/play/a028
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",UNIVERSAL
+http://200.48.65.77:8000/play/a02p
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",UNIVISION
+http://200.48.65.77:8000/play/a00x
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",USA
+http://200.48.65.77:8000/play/a02n
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",VCLASSICTV
+http://200.48.65.77:8000/play/a01y
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",VE PLUS
+http://200.48.65.77:8000/play/a01q
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",WARNER
+http://200.48.65.77:8000/play/a002
+#EXTINF:Tv Internacional1 groupTv Internacionaltitle="Tv Internacional",WILLAX
+http://200.48.65.77:8000/play/a019
+
 
 
 
