@@ -205,3 +205,122 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx@SD" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Canales Mx",Teleritmo 
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Canales colombia",AE Mundo
+http://45.70.168.162:12339/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",AXN 
+http://45.70.168.162:12339/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Animal Planet
+http://45.70.168.162:12339/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Baby First
+http://45.70.168.162:12339/play/a01i/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Canal Caracol
+http://45.70.168.162:12339/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Canal Institucional
+http://45.70.168.162:12339/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Canal Las Estrellas colombia
+http://45.70.168.162:12339/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Canal RCN
+http://45.70.168.162:12339/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Canal Uno
+http://45.70.168.162:12339/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Canal del Congreso
+http://45.70.168.162:12339/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Capital
+http://45.70.168.162:12339/play/a00v/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Caracol
+http://45.70.168.162:12339/play/a02e/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Cartoon Network
+http://45.70.168.162:12339/play/a007/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Cinecanal
+http://45.70.168.162:12339/play/a004/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Cinemax
+http://45.70.168.162:12339/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",City TV
+http://45.70.168.162:12339/play/a00u/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Claro Sports
+http://45.70.168.162:12339/play/a029/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Discovery Channel
+http://45.70.168.162:12339/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Discovery Turbo
+http://45.70.168.162:12339/play/a016/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Disney Channel
+http://45.70.168.162:12339/play/a009/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",E Entertainment
+http://45.70.168.162:12339/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",ESPN
+http://45.70.168.162:12339/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",ESPN 2
+http://45.70.168.162:12339/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",ESPN 3
+http://45.70.168.162:12339/play/a017/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",ESPN 5
+http://45.70.168.162:12339/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",ESPN 5
+http://45.70.168.162:12339/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",ESPN 6
+http://45.70.168.162:12339/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",ESPN 7
+http://45.70.168.162:12339/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",El Gourmet
+http://45.70.168.162:12339/play/a024/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",FX
+http://45.70.168.162:12339/play/a011/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",HBO
+http://45.70.168.162:12339/play/a00w/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",History Channel
+http://45.70.168.162:12339/play/a003/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Home and Health
+http://45.70.168.162:12339/play/a01q/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",ID
+http://45.70.168.162:12339/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Kanal D Drama
+http://45.70.168.162:12339/play/a02b/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Love Nature
+http://45.70.168.162:12339/play/a02c/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",MTV
+http://45.70.168.162:12339/play/a01p/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",National Geographic
+http://45.70.168.162:12339/play/a002/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Nick Jr
+http://45.70.168.162:12339/play/a015/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Nickelodeon
+http://45.70.168.162:12339/play/a001/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Plim Plim TV
+http://45.70.168.162:12339/play/a02a/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",STAR Channel
+http://45.70.168.162:12339/play/a006/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Senal Colombia
+http://45.70.168.162:12339/play/a00s/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",SonyY
+http://45.70.168.162:12339/play/a028/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Space
+http://45.70.168.162:12339/play/a010/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",TNT Novelas
+http://45.70.168.162:12339/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",TNTt
+http://45.70.168.162:12339/play/a01z/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",TRO
+http://45.70.168.162:12339/play/a01n/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Teleantioquia
+http://45.70.168.162:12339/play/a012/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Telecaribe
+http://45.70.168.162:12339/play/a018/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Telemundo
+http://45.70.168.162:12339/play/a01k/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Telepacifico
+http://45.70.168.162:12339/play/a014/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Trece
+http://45.70.168.162:12339/play/a019/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Universal
+http://45.70.168.162:12339/play/a005/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Warner
+http://45.70.168.162:12339/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Win
+http://45.70.168.162:12339/play/a013/index.m3u8
+#EXTINF:-1 group-title="Canales colombia",Zoom
+http://45.70.168.162:12339/play/a01m/index.m3u8
