@@ -10,7 +10,7 @@ http://38.65.175.25:8000/play/a0bc/index.m3u8
 http://38.65.175.25:8000/play/a08w/index.m3u8
 #EXTINF:-1 group-title="Varios Tv", BOOMERAN
 http://38.65.175.25:8000/play/a0c1/index.m3u8
-#EXTINF:-1 group-title="Varios Tv", D KIDS
+#EXTINF:-1 group-title="Varios Tv", DICOVERY KIDS
 http://38.65.175.25:8000/play/a0an/index.m3u8
 #EXTINF:-1 group-title="Varios Tv", DICOVERY CHANNEL
 http://38.65.175.25:8000/play/a0ep/index.m3u8
@@ -18,8 +18,6 @@ http://38.65.175.25:8000/play/a0ep/index.m3u8
 http://38.65.175.25:8000/play/a0c4/index.m3u8
 #EXTINF:-1 group-title="Varios Tv", E¡
 http://38.65.175.25:8000/play/a0by/index.m3u8
-#EXTINF:-1 group-title="Varios Tv", FORMULA NOTICIAS
-http://38.65.175.25:8000/play/a0be/index.m3u8
 #EXTINF:-1 group-title="Varios Tv", FORMULA NOTICIAS
 http://38.65.175.25:8000/play/a0be/index.m3u8
 #EXTINF:-1 group-title="Varios Tv", H&H
@@ -72,16 +70,7 @@ http://38.65.175.25:8000/play/a0ao/index.m3u8
 http://38.65.175.25:8000/play/a0km/index.m3u8
 #EXTINF:-1 group-title="Varios Tv", AYM SPORT HD
 http://38.65.175.25:8000/play/a0mk/index.m3u8
-#EXTINF:-1 group-title="Varios Tv", AZTECA 7
-http://38.65.175.25:8000/play/a0fm/index.m3u8
-#EXTINF:-1 group-title="Varios Tv", AZTECA INTER HD
-http://38.65.175.25:8000/play/a0mf/index.m3u8
-#EXTINF:-1 group-title="Varios Tv", AZTECA UNO
-http://38.65.175.25:8000/play/a0cc/index.m3u8
-#EXTINF:-1 group-title="Varios Tv", CANAL 22
-http://38.65.175.25:8000/play/a0d7/index.m3u8
-#EXTINF:-1 group-title="Varios Tv", CANAL 5
-http://38.65.175.25:8000/play/a0fl/index.m3u8
+
 #EXTINF:-1 group-title="Varios Tv", CARTOON NETWORK
 http://38.65.175.25:8000/play/a0c0/index.m3u8
 #EXTINF:-1 group-title="Varios Tv", CINE LATINO
@@ -183,6 +172,18 @@ http://38.65.175.25:8000/play/a0m2/index.m3u8
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Canales Mx",Las Estrellas Mexico
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 group-title="Canales Mx", AZTECA 7
+http://38.65.175.25:8000/play/a0fm/index.m3u8
+#EXTINF:-1 group-title="Canales Mx", AZTECA INTER HD
+http://38.65.175.25:8000/play/a0mf/index.m3u8
+#EXTINF:-1 group-title="Canales Mx", AZTECA UNO
+http://38.65.175.25:8000/play/a0cc/index.m3u8
+#EXTINF:-1 group-title="Canales Mx", CANAL 22
+http://38.65.175.25:8000/play/a0d7/index.m3u8
+#EXTINF:-1 group-title="Canales Mx", CANAL 5
+http://38.65.175.25:8000/play/a0fl/index.m3u8
+
 #EXTINF:-1 tvg-id="8NTV.mx@SD" tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="Canales Mx",8NTV (1080p)
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Canales Mx",ADN 40 (720p)
