@@ -93,8 +93,6 @@ http://38.65.175.25:8000/play/a0o2/index.m3u8
 http://38.65.175.25:8000/play/a0kc/index.m3u8
 #EXTINF:-1 group-title="Varios Tv", DISCOVERY ID
 http://38.65.175.25:8000/play/a0ch/index.m3u8
-#EXTINF:-1 group-title="Varios Tv", ESTRELLAS
-http://38.65.175.25:8000/play/a0d4/index.m3u8
 #EXTINF:-1 group-title="Varios Tv", EUROPA
 http://38.65.175.25:8000/play/a0k6/index.m3u8
 #EXTINF:-1 group-title="Varios Tv", EXA TV
@@ -170,8 +168,10 @@ http://38.65.175.25:8000/play/a0m2/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Canales Mx",Las Estrellas Mexico
+#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Canales Mx",Las Estrellas 1
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 group-title="Canales Mx", Las Estrellas 2
+http://38.65.175.25:8000/play/a0d4/index.m3u8
 
 #EXTINF:-1 group-title="Canales Mx", AZTECA 7
 http://38.65.175.25:8000/play/a0fm/index.m3u8
