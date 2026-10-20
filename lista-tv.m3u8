@@ -224,6 +224,8 @@ http://181.119.185.32:8000/play/a01w/index.m3u8?hls
 http://181.119.185.32:8000/play/a009/index.m3u8?hls
 #EXTINF:-1 group-title="Canales Deportes",ESPN 5
 http://181.119.185.32:8000/play/a00n/index.m3u8?hls
+#EXTINF:-1 group-title="Canales Deportes",TNT Sports Premium
+http://tecnotv.club/q7sz/phpcode/lista4.php?c=a05i&token=tecnotokenplustv230516F&f=.m3u8
 
 
 
