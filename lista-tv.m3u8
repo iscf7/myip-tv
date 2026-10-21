@@ -296,7 +296,6 @@ http://38.65.175.25:8000/play/a0d7/index.m3u8
 http://38.65.175.25:8000/play/a0fl/index.m3u8
 #EXTINF:-1 group-title="Canales Mx", BitMe
 http://181.119.66.28:8081/BITME/index.m3u8
-
 #EXTINF:-1 tvg-id="8NTV.mx@SD" tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="Canales Mx",8NTV (1080p)
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Canales Mx",ADN 40 (720p)
@@ -320,10 +319,18 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 
 
+
+
 #EXTINF:-1 group-title="Canales musicales",Memorias Pop
 http://181.225.96.100:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="Canales musicales",Teleritmo 
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="Canales musicales",Exa TV 
+http://190.61.90.17:40000/play/a0hk/index.m3u8
+#EXTINF:-1 group-title="Canales musicales",Lobo TV 
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+
+
 
 
 
