@@ -20,7 +20,7 @@ http://38.65.175.25:8000/play/a0d7/index.m3u8
 #EXTINF:-1 group-title="Canales Mx", CANAL 5
 http://38.65.175.25:8000/play/a0fl/index.m3u8
 #EXTINF:-1 group-title="Canales Mx", BitMe
-http://181.119.66.28:8081/BITME/index.m3u8
+https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
 #EXTINF:-1 tvg-id="8NTV.mx@SD" tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="Canales Mx",8NTV (1080p)
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 #EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Canales Mx",ADN 40 (720p)
