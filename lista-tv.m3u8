@@ -85,7 +85,7 @@ http://45.70.168.162:12339/play/a00v/index.m3u8
 #EXTINF:-1 group-title="Canales HD",Caracol
 http://45.70.168.162:12339/play/a02e/index.m3u8
 #EXTINF:-1 group-title="Canales HD",Cartoon Network
-http://45.70.168.162:12339/play/a007/index.m3u8
+http://38.137.192.250:8000/play/a0ey
 #EXTINF:-1 group-title="Canales HD",Cinecanal
 http://45.70.168.162:12339/play/a004/index.m3u8
 #EXTINF:-1 group-title="Canales HD",Cinemax
