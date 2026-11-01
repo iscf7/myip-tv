@@ -74,22 +74,6 @@ http://45.70.168.162:12339/play/a00z/index.m3u8
 http://45.70.168.162:12339/play/a00b/index.m3u8
 #EXTINF:-1 group-title="Canales HD",Baby First
 http://45.70.168.162:12339/play/a01i/index.m3u8
-#EXTINF:-1 group-title="Canales HD",Canal Caracol
-http://45.70.168.162:12339/play/a00o/index.m3u8
-#EXTINF:-1 group-title="Canales HD",Canal Institucional
-http://45.70.168.162:12339/play/a00q/index.m3u8
-#EXTINF:-1 group-title="Canales HD",Canal Las Estrellas colombia
-http://45.70.168.162:12339/play/a01j/index.m3u8
-#EXTINF:-1 group-title="Canales HD",Canal RCN
-http://45.70.168.162:12339/play/a00p/index.m3u8
-#EXTINF:-1 group-title="Canales HD",Canal Uno
-http://45.70.168.162:12339/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Canales HD",Canal del Congreso
-http://45.70.168.162:12339/play/a00r/index.m3u8
-#EXTINF:-1 group-title="Canales HD",Capital
-http://45.70.168.162:12339/play/a00v/index.m3u8
-#EXTINF:-1 group-title="Canales HD",Caracol
-http://45.70.168.162:12339/play/a02e/index.m3u8
 #EXTINF:-1 group-title="Canales HD",Cartoon Network
 http://38.137.192.250:8000/play/a0ey
 #EXTINF:-1 group-title="Canales HD",Cinecanal
@@ -122,8 +106,6 @@ http://45.70.168.162:12339/play/a00e/index.m3u8
 http://45.70.168.162:12339/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Canales HD",ESPN 7
 http://45.70.168.162:12339/play/a00i/index.m3u8
-#EXTINF:-1 group-title="Canales HD",El Gourmet
-http://45.70.168.162:12339/play/a024/index.m3u8
 #EXTINF:-1 group-title="Canales HD",FX
 http://45.70.168.162:12339/play/a011/index.m3u8
 #EXTINF:-1 group-title="Canales HD",HBO
@@ -150,15 +132,13 @@ http://45.70.168.162:12339/play/a001/index.m3u8
 http://45.70.168.162:12339/play/a02a/index.m3u8
 #EXTINF:-1 group-title="Canales HD",STAR Channel
 http://45.70.168.162:12339/play/a006/index.m3u8
-#EXTINF:-1 group-title="Canales HD",Senal Colombia
-http://45.70.168.162:12339/play/a00s/index.m3u8
 #EXTINF:-1 group-title="Canales HD",SonyY
 http://45.70.168.162:12339/play/a028/index.m3u8
 #EXTINF:-1 group-title="Canales HD",Space
 http://45.70.168.162:12339/play/a010/index.m3u8
 #EXTINF:-1 group-title="Canales HD",TNT Novelas
 http://45.70.168.162:12339/play/a00l/index.m3u8
-#EXTINF:-1 group-title="Canales HD",TNTt
+#EXTINF:-1 group-title="Canales HD",TNT
 http://45.70.168.162:12339/play/a01z/index.m3u8
 #EXTINF:-1 group-title="Canales HD",TRO
 http://45.70.168.162:12339/play/a01n/index.m3u8
@@ -181,161 +161,6 @@ http://45.70.168.162:12339/play/a013/index.m3u8
 #EXTINF:-1 group-title="Canales HD",Zoom
 http://45.70.168.162:12339/play/a01m/index.m3u8
 
-
-#EXTINF:-1 group-title="Canales SD", A&E
-http://38.65.175.25:8000/play/a0bv/index.m3u8
-#EXTINF:-1 group-title="Canales SD", A3 SERIES
-http://38.65.175.25:8000/play/a0b0/index.m3u8
-#EXTINF:-1 group-title="Canales SD", ARTS
-http://38.65.175.25:8000/play/a0bc/index.m3u8
-#EXTINF:-1 group-title="Canales SD", AXN
-http://38.65.175.25:8000/play/a08w/index.m3u8
-#EXTINF:-1 group-title="Canales SD", BOOMERAN
-http://38.65.175.25:8000/play/a0c1/index.m3u8
-#EXTINF:-1 group-title="Canales SD", DICOVERY KIDS
-http://38.65.175.25:8000/play/a0an/index.m3u8
-#EXTINF:-1 group-title="Canales SD", DICOVERY CHANNEL
-http://38.65.175.25:8000/play/a0ep/index.m3u8
-#EXTINF:-1 group-title="Canales SD", DISCOVERY TURBO
-http://38.65.175.25:8000/play/a0c4/index.m3u8
-#EXTINF:-1 group-title="Canales SD", E¡
-http://38.65.175.25:8000/play/a0by/index.m3u8
-#EXTINF:-1 group-title="Canales SD", FORMULA NOTICIAS
-http://38.65.175.25:8000/play/a0be/index.m3u8
-#EXTINF:-1 group-title="Canales SD", H&H
-http://38.65.175.25:8000/play/a0bw/index.m3u8
-#EXTINF:-1 group-title="Canales SD", HBO
-http://38.65.175.25:8000/play/a0c5/index.m3u8
-#EXTINF:-1 group-title="Canales SD", HBO +
-http://38.65.175.25:8000/play/a0cv/index.m3u8
-#EXTINF:-1 group-title="Canales SD", IMAGEN
-http://38.65.175.25:8000/play/a0d5/index.m3u8
-#EXTINF:-1 group-title="Canales SD", MC
-http://38.65.175.25:8000/play/a0co/index.m3u8
-#EXTINF:-1 group-title="Canales SD", NICK
-http://38.65.175.25:8000/play/a0am/index.m3u8
-#EXTINF:-1 group-title="Canales SD", SONY
-http://38.65.175.25:8000/play/a0aj/index.m3u8
-#EXTINF:-1 group-title="Canales SD", STUDIO UNIVERSAL
-http://38.65.175.25:8000/play/a0bh/index.m3u8
-#EXTINF:-1 group-title="Canales SD", TLR
-http://38.65.175.25:8000/play/a0em/index.m3u8
-#EXTINF:-1 group-title="Canales SD", TNT SERIES
-http://38.65.175.25:8000/play/a0da/index.m3u8
-#EXTINF:-1 group-title="Canales SD", VIDEO ROLA
-http://38.65.175.25:8000/play/a0b5/index.m3u8
-#EXTINF:-1 group-title="Canales SD", history 2
-http://38.65.175.25:8000/play/a0dj/index.m3u8
-#EXTINF:-1 group-title="Canales SD", hola tv
-http://38.65.175.25:8000/play/a0db/index.m3u8
-#EXTINF:-1 group-title="Canales SD", milenio
-http://38.65.175.25:8000/play/a0dm/index.m3u8
-#EXTINF:-1 group-title="Canales SD", once
-http://38.65.175.25:8000/play/a0bq/index.m3u8
-#EXTINF:-1 group-title="Canales SD", CANAL 14
-http://38.65.175.25:8000/play/a0ax/index.m3u8
-#EXTINF:-1 group-title="Canales SD", CNN
-http://38.65.175.25:8000/play/a0bd/index.m3u8
-#EXTINF:-1 group-title="Canales SD", JUSTICIA TV
-http://38.65.175.25:8000/play/a0bg/index.m3u8
-#EXTINF:-1 group-title="Canales SD", NOTICIAS DEL CONGRESO
-http://38.65.175.25:8000/play/a0az/index.m3u8
-#EXTINF:-1 group-title="Canales SD", TV UNAM
-http://38.65.175.25:8000/play/a0ay/index.m3u8
-#EXTINF:-1 group-title="Canales SD", TVC
-http://38.65.175.25:8000/play/a0bf/index.m3u8
-#EXTINF:-1 group-title="Canales SD", AMC
-http://38.65.175.25:8000/play/a0k8/index.m3u8
-#EXTINF:-1 group-title="Canales SD", ANIMAL PLANET
-http://38.65.175.25:8000/play/a0ao/index.m3u8
-#EXTINF:-1 group-title="Canales SD", AYM
-http://38.65.175.25:8000/play/a0km/index.m3u8
-#EXTINF:-1 group-title="Canales SD", AYM SPORT HD
-http://38.65.175.25:8000/play/a0mk/index.m3u8
-#EXTINF:-1 group-title="Canales SD", CARTOON NETWORK
-http://38.65.175.25:8000/play/a0c0/index.m3u8
-#EXTINF:-1 group-title="Canales SD", CINE LATINO
-http://38.65.175.25:8000/play/a0lq/index.m3u8
-#EXTINF:-1 group-title="Canales SD", CINEMAX
-http://38.65.175.25:8000/play/a093/index.m3u8
-#EXTINF:-1 group-title="Canales SD", CLARO SPORT
-http://38.65.175.25:8000/play/a0cm/index.m3u8
-#EXTINF:-1 group-title="Canales SD", CLICK HD
-http://38.65.175.25:8000/play/a0mh/index.m3u8
-#EXTINF:-1 group-title="Canales SD", CNN
-http://38.65.175.25:8000/play/a0dl/index.m3u8
-#EXTINF:-1 group-title="Canales SD", COMEDY CENTRAL
-http://38.65.175.25:8000/play/a0b3/index.m3u8
-#EXTINF:-1 group-title="Canales SD", Canal 5 T
-http://38.65.175.25:8000/play/a0o1/index.m3u8
-#EXTINF:-1 group-title="Canales SD", Canal 6 T
-http://38.65.175.25:8000/play/a0o2/index.m3u8
-#EXTINF:-1 group-title="Canales SD", Cartonito
-http://38.65.175.25:8000/play/a0kc/index.m3u8
-#EXTINF:-1 group-title="Canales SD", DISCOVERY ID
-http://38.65.175.25:8000/play/a0ch/index.m3u8
-#EXTINF:-1 group-title="Canales SD", EUROPA
-http://38.65.175.25:8000/play/a0k6/index.m3u8
-#EXTINF:-1 group-title="Canales SD", EXA TV
-http://38.65.175.25:8000/play/a0lr/index.m3u8
-#EXTINF:-1 group-title="Canales SD", FAST AND FUN BOX
-http://38.65.175.25:8000/play/a0ks/index.m3u8
-#EXTINF:-1 group-title="Canales SD", HBO 2
-http://38.65.175.25:8000/play/a0ct/index.m3u8
-#EXTINF:-1 group-title="Canales SD", HBO FAMILY
-http://38.65.175.25:8000/play/a0cu/index.m3u8
-#EXTINF:-1 group-title="Canales SD", HBO MUNDI
-http://38.65.175.25:8000/play/a0jj/index.m3u8
-#EXTINF:-1 group-title="Canales SD", HBO SIGNATURE
-http://38.65.175.25:8000/play/a0ji/index.m3u8
-#EXTINF:-1 group-title="Canales SD", HBO XTREME
-http://38.65.175.25:8000/play/a096/index.m3u8
-#EXTINF:-1 group-title="Canales SD", HISTORY CHANNEL
-http://38.65.175.25:8000/play/a0ap/index.m3u8
-#EXTINF:-1 group-title="Canales SD", HTV
-http://38.65.175.25:8000/play/a0b7/index.m3u8
-#EXTINF:-1 group-title="Canales SD", LAMEJOR TV
-http://38.65.175.25:8000/play/a0ls/index.m3u8
-#EXTINF:-1 group-title="Canales SD", LIFE TIME
-http://38.65.175.25:8000/play/a0ci/index.m3u8
-#EXTINF:-1 group-title="Canales SD",MTV
-http://38.65.175.25:8000/play/a0ak/index.m3u8
-#EXTINF:-1 group-title="Canales SD", MULTI PREMIER
-http://38.65.175.25:8000/play/a0cp/index.m3u8
-#EXTINF:-1 group-title="Canales SD", MULTICANAL
-http://38.65.175.25:8000/play/a0lo/index.m3u8
-#EXTINF:-1 group-title="Canales SD", MULTIPREMIER
-http://38.65.175.25:8000/play/a0lp/index.m3u8
-#EXTINF:-1 group-title="Canales SD", NBA
-http://38.65.175.25:8000/play/a0kj/index.m3u8
-#EXTINF:-1 group-title="Canales SD", NFL
-http://38.65.175.25:8000/play/a0kk/index.m3u8
-#EXTINF:-1 group-title="Canales SD", SPACE
-http://38.65.175.25:8000/play/a0cg/index.m3u8
-#EXTINF:-1 group-title="Canales SD", SYFY
-http://38.65.175.25:8000/play/a0b1/index.m3u8
-#EXTINF:-1 group-title="Canales SD", TELEMUNDO INTER HD
-http://38.65.175.25:8000/play/a0mg/index.m3u8
-#EXTINF:-1 group-title="Canales SD", TLC
-http://38.65.175.25:8000/play/a0bx/index.m3u8
-#EXTINF:-1 group-title="Canales SD", TNT
-http://38.65.175.25:8000/play/a0aq/index.m3u8
-#EXTINF:-1 group-title="Canales SD", TRACE
-http://38.65.175.25:8000/play/a0ky/index.m3u8
-#EXTINF:-1 group-title="Canales SD", TVC DEPORTES
-http://38.65.175.25:8000/play/a0mj/index.m3u8
-#EXTINF:-1 group-title="Canales SD", UNIVERSAL
-http://38.65.175.25:8000/play/a0bt/index.m3u8
-#EXTINF:-1 group-title="Canales SD", WARNER
-http://38.65.175.25:8000/play/a0cf/index.m3u8
-#EXTINF:-1 group-title="Canales SD", espn extra
-http://38.65.175.25:8000/play/a0kf/index.m3u8
-#EXTINF:-1 group-title="Canales SD", fox channel
-http://38.65.175.25:8000/play/a08v/index.m3u8
-#EXTINF:-1 group-title="Canales SD", letra a
-http://38.65.175.25:8000/play/a0bu/index.m3u8
-#EXTINF:-1 group-title="Canales SD", tnt novelas
-http://38.65.175.25:8000/play/a0m2/index.m3u8
 
 
 
