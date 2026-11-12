@@ -90,6 +90,10 @@ http://45.70.168.162:12339/play/a00a/index.m3u8
 http://45.70.168.162:12339/play/a016/index.m3u8
 #EXTINF:-1 group-title="Canales HD",Discovery ID
 http://187.245.231.227:8000/play/a0q4/index.m3u8
+#EXTINF:-1 group-title="Canales HD",Discovery Home and Health
+http://45.70.168.162:12339/play/a01q/index.m3u8
+#EXTINF:-1 group-title="Canales HD",Discovery ID
+http://45.70.168.162:12339/play/a00k/index.m3u8
 #EXTINF:-1 group-title="Canales HD",Disney Channel
 http://45.70.168.162:12339/play/a009/index.m3u8
 #EXTINF:-1 group-title="Canales HD",E Entertainment
@@ -116,10 +120,6 @@ http://45.70.168.162:12339/play/a00w/index.m3u8
 http://187.245.231.227:8000/play/a0mt/index.m3u8
 #EXTINF:-1 group-title="Canales HD",History Channel
 http://45.70.168.162:12339/play/a003/index.m3u8
-#EXTINF:-1 group-title="Canales HD",Home and Health
-http://45.70.168.162:12339/play/a01q/index.m3u8
-#EXTINF:-1 group-title="Canales HD",ID
-http://45.70.168.162:12339/play/a00k/index.m3u8
 #EXTINF:-1 group-title="Canales HD",Kanal D Drama
 http://45.70.168.162:12339/play/a02b/index.m3u8
 #EXTINF:-1 group-title="Canales HD",Love Nature
@@ -136,8 +136,10 @@ http://45.70.168.162:12339/play/a001/index.m3u8
 http://45.70.168.162:12339/play/a02a/index.m3u8
 #EXTINF:-1 group-title="Canales HD",STAR Channel
 http://45.70.168.162:12339/play/a006/index.m3u8
-#EXTINF:-1 group-title="Canales HD",SonyY
+#EXTINF:-1 group-title="Canales HD",Sony
 http://45.70.168.162:12339/play/a028/index.m3u8
+#EXTINF:-1 group-title="Canales HD",Sony Movie
+http://187.245.231.227:8000/play/a0mg/index.m3u8
 #EXTINF:-1 group-title="Canales HD",Space
 http://45.70.168.162:12339/play/a010/index.m3u8
 #EXTINF:-1 group-title="Canales HD",TNT Novelas
@@ -162,6 +164,15 @@ http://45.70.168.162:12339/play/a014/index.m3u8
 http://45.70.168.162:12339/play/a019/index.m3u8
 #EXTINF:-1 group-title="Canales HD",Universal
 http://45.70.168.162:12339/play/a005/index.m3u8
+#EXTINF:-1 group-title="Canales HD",Universal Cinema
+http://187.245.231.227:8000/play/a0q5/index.m3u8
+#EXTINF:-1 group-title="Canales HD",Universal Crime
+http://187.245.231.227:8000/play/a0ot/index.m3u8
+#EXTINF:-1 group-title="Canales HD",Universal Priemere
+http://187.245.231.227:8000/play/a0oq/index.m3u8
+
+
+
 #EXTINF:-1 group-title="Canales HD",Warner
 http://45.70.168.162:12339/play/a00c/index.m3u8
 #EXTINF:-1 group-title="Canales HD",Win
